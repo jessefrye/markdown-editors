@@ -1,0 +1,93 @@
+editor
+foreground: 212121 # Primary Text Color
+background: f7f7f7 # Background Color
+caret: 4169E1      # Caret Color
+font-family: Aller-Light
+font-weight: normal
+
+editor-selection
+foreground: ffffff
+background: 306EBF
+
+H1
+foreground: 000000
+font-family: Stag-Book
+font-weight: normal
+font-size: +22
+
+H2
+foreground: 000000
+font-family: Stag-Book
+font-weight: normal
+font-size:  +18
+
+H3
+foreground: 000000
+font-family: Stag-Book
+font-weight: normal
+font-size: +14
+
+H4
+foreground: 000000
+font-family: Stag-Book
+font-weight: normal
+font-size: +8
+
+H5
+foreground: 000000
+font-family: Stag-Book
+font-weight: normal
+font-size: +3
+
+H6
+foreground: 000000
+font-family: Stag-Book
+font-weight: normal
+font-size: +1
+
+EMPH
+foreground: 212121
+font-style: italic
+
+STRONG
+foreground: 212121
+font-style: bold
+
+HRULE
+foreground: cccccc
+
+LIST_BULLET
+foreground: 444444
+
+LIST_ENUMERATOR
+foreground: 444444
+
+LINK
+foreground: 306EBF
+
+AUTO_LINK_URL
+foreground: 306EBF
+
+AUTO_LINK_EMAIL
+foreground: 306EBF
+
+REFERENCE
+foreground: 66cccc
+
+IMAGE
+foreground: 22C77A
+
+CODE
+foreground: 306EBF
+
+VERBATIM
+foreground: 306EBF
+
+HTML_ENTITY
+foreground: 306EBF
+
+COMMENT
+foreground: 22C77A
+
+BLOCKQUOTE
+foreground: 22C77A
