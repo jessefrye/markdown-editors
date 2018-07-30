@@ -1,0 +1,93 @@
+# Write - Light Theme
+# Color are represented by a 6 character HEX value.
+# Find the hex value for your desired color here: http://www.w3schools.com/tags/ref_colorpicker.asp 
+
+editor
+foreground: 000000 # Primary Text Color
+background: ffffff # Background Color
+caret: 4169E1      # Caret Color
+
+H1
+foreground: 000000 # H1 Font Color
+font-size: +22
+font-family: Stag-Book
+font-style: normal
+
+H2
+foreground: 000000 # H2 Font Color
+font-size:  +18
+font-family: Stag-Book
+font-style: normal
+
+H3
+foreground: 000000 # H3 Font Color
+font-size: +14
+font-family: Stag-Book
+font-style: normal
+
+H4
+foreground: 000000 # H4 Font Color
+font-size: +8
+font-family: Stag-Book
+font-style: normal
+
+H5
+foreground: 000000 # H5 Font Color
+font-size: +3
+font-family: Stag-Book
+font-style: normal
+
+H6
+foreground: 000000 # H6 Font Color
+font-size: +1
+font-family: Stag-Book
+font-style: normal
+
+HRULE
+foreground: 586e75 # Horizontal Rule Color <hr> (- - -)
+
+LIST_BULLET
+foreground: b58900 # Unordered List Color
+
+LIST_ENUMERATOR
+foreground: b58900 # Ordered List Color
+
+LINK
+foreground: 2aa198 # Explicit Link Color
+
+AUTO_LINK_URL
+foreground: 2aa198 # Implicit Link Color
+
+AUTO_LINK_EMAIL
+foreground: 2aa198 # Email Link Color
+
+IMAGE
+foreground: d33682 # Image Code Color
+
+REFERENCE
+foreground: b58900 # Reference, Footer Color
+
+CODE
+foreground: 859900 # Code Block Color
+
+EMPH
+foreground: 000000 # Italic Color
+font-style: italic
+
+STRONG
+foreground: 000000 # Bold Color
+font-style: bold
+
+HTML_ENTITY
+foreground: 6c71c4 # HTML Character Entity e.g. "&#161;"
+
+COMMENT
+foreground: 93a1a1 # HTML Comment Color <!—-Comment—->
+
+VERBATIM
+foreground: 859900 # Block of code Color
+
+BLOCKQUOTE
+foreground: d33682 # Block Quote Color
+
+
