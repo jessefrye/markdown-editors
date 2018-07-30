@@ -2,9 +2,13 @@
 
 I wanted to evolve and save the styling for the markdown editors I use so I saved them here. There are typically two documents. One styles the editor and the other styles the rendered output. The latter is usually a CSS file. I made a icon (.icns) file for each which I think look better.
 
+![macdown](macdown/macdown.png)
+
 ## MacDown [check it](https://macdown.uranusjr.com/)
 
 The location for the MacDown documents is `/Library/Application Support/MacDown`
+
+![write](write/write.png)
 
 ## Write [check it](http://writeapp.net/mac/)
 

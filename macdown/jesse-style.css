@@ -44,6 +44,11 @@ a:hover {
 a img {
   border: none;
 }
+img {
+  max-width: 90%;
+  display: block;
+  margin: auto;
+}
 p {
   margin-bottom: 1em;
 }
